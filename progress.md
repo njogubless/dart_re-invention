@@ -40,6 +40,8 @@ This document tracks my 14-day intensive journey learning Dart, Object-Oriented 
 **Resources Used:**
 - [Official Dart Documentation](https://dart.dev/guides)
 - [DartPad](https://dartpad.dev/)
+- [Learn Dart and Flutter github-repo](https://github.com/binzidane/Flutter-3)
+- [Dart Apprentice](https://dokumen.pub/dart-apprentice-1nbsped-1950325326-9781950325320.html)
 
 **Notes & Insights:**
 <!-- Add your personal notes and insights here -->
@@ -59,6 +61,9 @@ This document tracks my 14-day intensive journey learning Dart, Object-Oriented 
 
 **Resources Used:**
 <!-- Add resources here -->
+- [Official Dart Documentation](https://dart.dev/guides)
+- [Learn Dart and Flutter github-repo](https://github.com/binzidane/Flutter-3)
+- [Dart Apprentice](https://dokumen.pub/dart-apprentice-1nbsped-1950325326-9781950325320.html)
 
 **Notes & Insights:**
 <!-- Add your personal notes and insights here -->
@@ -79,6 +84,9 @@ This document tracks my 14-day intensive journey learning Dart, Object-Oriented 
 
 **Resources Used:**
 <!-- Add resources here -->
+- [Official Dart Documentation](https://dart.dev/guides)
+- [Learn Dart and Flutter github-repo](https://github.com/binzidane/Flutter-3)
+- [Dart Apprentice](https://dokumen.pub/dart-apprentice-1nbsped-1950325326-9781950325320.html)
 
 **Notes & Insights:**
 <!-- Add your personal notes and insights here -->
@@ -98,6 +106,9 @@ This document tracks my 14-day intensive journey learning Dart, Object-Oriented 
 
 **Resources Used:**
 <!-- Add resources here -->
+- [Official Dart Documentation](https://dart.dev/guides)
+- [Learn Dart and Flutter github-repo](https://github.com/binzidane/Flutter-3)
+- [Dart Apprentice](https://dokumen.pub/dart-apprentice-1nbsped-1950325326-9781950325320.html)
 
 **Notes & Insights:**
 <!-- Add your personal notes and insights here -->
@@ -132,6 +143,9 @@ This document tracks my 14-day intensive journey learning Dart, Object-Oriented 
 
 **Resources Used:**
 <!-- Add resources here -->
+- [Official Dart Documentation](https://dart.dev/guides)
+- [Learn Dart and Flutter github-repo](https://github.com/binzidane/Flutter-3)
+- [Dart Apprentice](https://dokumen.pub/dart-apprentice-1nbsped-1950325326-9781950325320.html)
 
 **Notes & Insights:**
 <!-- Add your personal notes and insights here -->
@@ -152,6 +166,9 @@ This document tracks my 14-day intensive journey learning Dart, Object-Oriented 
 
 **Resources Used:**
 <!-- Add resources here -->
+- [Official Dart Documentation](https://dart.dev/guides)
+- [Learn Dart and Flutter github-repo](https://github.com/binzidane/Flutter-3)
+- [Dart Apprentice](https://dokumen.pub/dart-apprentice-1nbsped-1950325326-9781950325320.html)
 
 **Notes & Insights:**
 <!-- Add your personal notes and insights here -->
@@ -171,7 +188,9 @@ This document tracks my 14-day intensive journey learning Dart, Object-Oriented 
 
 **Resources Used:**
 <!-- Add resources here -->
-
+- [Official Dart Documentation](https://dart.dev/guides)
+- [Learn Dart and Flutter github-repo](https://github.com/binzidane/Flutter-3)
+- [Dart Apprentice](https://dokumen.pub/dart-apprentice-1nbsped-1950325326-9781950325320.html)
 **Notes & Insights:**
 <!-- Add your personal notes and insights here -->
 
@@ -208,6 +227,7 @@ This document tracks my 14-day intensive journey learning Dart, Object-Oriented 
 
 **Resources Used:**
 <!-- Add resources here -->
+- [Data Structures]{https://www.scribd.com/document/577852907/Data-Structures-Algorithms-in-Dart}
 
 **Notes & Insights:**
 <!-- Add your personal notes and insights here -->
@@ -228,6 +248,7 @@ This document tracks my 14-day intensive journey learning Dart, Object-Oriented 
 
 **Resources Used:**
 <!-- Add resources here -->
+- [Data Structures]{https://www.scribd.com/document/577852907/Data-Structures-Algorithms-in-Dart}
 
 **Notes & Insights:**
 <!-- Add your personal notes and insights here -->
@@ -247,6 +268,7 @@ This document tracks my 14-day intensive journey learning Dart, Object-Oriented 
 
 **Resources Used:**
 <!-- Add resources here -->
+- [Data Structures]{https://www.scribd.com/document/577852907/Data-Structures-Algorithms-in-Dart}
 
 **Notes & Insights:**
 <!-- Add your personal notes and insights here -->
